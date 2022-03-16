@@ -1,5 +1,7 @@
 ### Hi there 👋
-I’m @vanng822 aka [@vannhu-nguyen](https://github.com/vannhu-nguyen)
+I’m @vanng822 aka [@vannhu-nguyen](https://github.com/vannhu-nguyen)\
+I'm [@Instagram](https://www.instagram.com/vanng822/)\
+I'm [@LinkedIn](https://www.linkedin.com/in/nguyenvannhu/)
 
 <!--
 **vanng822/vanng822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
